@@ -2,7 +2,7 @@
 
 Это репозиторий моего персонального сайта-портфолио, созданного для демонстрации услуг по веб-разработке, SEO-продвижению и настройке контекстной рекламы.
 
-🔗 **Живая версия сайта:** [aquilongroupltd-stack.github.io/my-portfolio](https://aquilongroupltd-stack.github.io/my-portfolio/)
+🔗 **Живая версия сайта:** [aquilongroupltd-stack.github.io/my-portfolio](https://aquilongroupltd-stack.github.io/portfolio/)
 
 ## 🛠 Используемые технологии
 - HTML5 / CSS3
