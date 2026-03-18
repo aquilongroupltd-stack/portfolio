@@ -24,4 +24,4 @@
 ## 🚀 Запуск проекта локально
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/aquilongroupltd-stack/my-portfolio.git
+   git clone https://github.com/aquilongroupltd-stack/portfolio.git
